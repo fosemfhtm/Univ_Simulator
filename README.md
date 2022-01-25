@@ -1,4 +1,7 @@
 # 공대생 시뮬레이션
+### 대학생의 삶을 녹여낸 로그라이크 게임
+
+
 
 ## Period
 2022.1.19 ~ 2022.1.26 (몰입캠프 4주차)
@@ -7,6 +10,10 @@
 #### 김수민 [fosemfhtm](https://github.com/fosemfhtm)
 #### 이현정 [hyunjeong408](https://github.com/hyunjeong408)
 #### 이원재 [LWJ0126](https://github.com/LWJ0126)
+
+## Tech stack
+#### Unity
+#### Fungus
 
 ## Flowchart
 
