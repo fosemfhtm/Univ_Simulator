@@ -5,8 +5,8 @@
 
 ## Contributors
 #### 김수민 [fosemfhtm](https://github.com/fosemfhtm)
-#### 이현정
-#### 이원재 
+#### 이현정 [hyunjeong408](https://github.com/hyunjeong408)
+#### 이원재 [LWJ0126](https://github.com/LWJ0126)
 
 ## Flowchart
 
