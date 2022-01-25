@@ -11,6 +11,9 @@
 #### 이현정 [hyunjeong408](https://github.com/hyunjeong408)
 #### 이원재 [LWJ0126](https://github.com/LWJ0126)
 
+## Introduction/Play Video
+~
+
 ## Tech stack
 #### Unity
 #### Fungus
@@ -25,3 +28,5 @@
 
 #### 5~6 
 ![스크린샷 2022-01-26 오전 7 42 25](https://user-images.githubusercontent.com/96766097/151072090-3f49785d-637e-4275-957f-a37106d41230.png)
+
+
