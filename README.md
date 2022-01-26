@@ -12,7 +12,7 @@
 #### 이원재 [LWJ0126](https://github.com/LWJ0126)
 
 ## Introduction/Play Video
-https://youtu.be/cjKy56OnPC4
+<iframe width="834" height="469" src="https://www.youtube.com/embed/cjKy56OnPC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tech stack
 #### - Unity
