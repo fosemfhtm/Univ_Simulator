@@ -29,7 +29,8 @@
 #### 5~6 
 ![스크린샷 2022-01-26 오전 7 42 25](https://user-images.githubusercontent.com/96766097/151072090-3f49785d-637e-4275-957f-a37106d41230.png)
 
-
+## Card
+### Attack Card
 ![뉴턴_완성본](https://user-images.githubusercontent.com/96766097/151119960-10b95e92-44e7-413c-a6b6-783a80099778.png)
 ![데카르트_완성본](https://user-images.githubusercontent.com/96766097/151119968-40058d71-71ee-4bb7-a40d-c7c519d43f9e.png)
 ![멘델_완성본](https://user-images.githubusercontent.com/96766097/151119970-dc838566-fdae-45b2-bcbb-2a68a5172ad3.png)
@@ -39,7 +40,7 @@
 ![피타고라스_완성본](https://user-images.githubusercontent.com/96766097/151119979-1897c515-3aa9-4b19-afc9-9d6f491b9e63.png)
 ![DNA_완성본](https://user-images.githubusercontent.com/96766097/151119981-687b5e24-1a64-459b-be33-5e5d20896b9b.png)
 
-
+### Recovery Card
 ![교재정독_완성본](https://user-images.githubusercontent.com/96766097/151120072-7bcae5f7-ebf3-4474-a096-a9de6a7cbd2b.png)
 ![그룹스터디_진짜완성본](https://user-images.githubusercontent.com/96766097/151120076-e68b89bb-2543-4b83-9156-6d8716b84a08.png)
 ![렉쳐노트_완성본](https://user-images.githubusercontent.com/96766097/151120080-8f455db9-2a54-4723-8471-58d8660ff3e9.png)
