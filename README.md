@@ -15,8 +15,8 @@
 ~
 
 ## Tech stack
-#### Unity
-#### Fungus
+#### - Unity
+#### - Fungus
 
 ## Flowchart
 
